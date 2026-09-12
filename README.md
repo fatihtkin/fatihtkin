@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="720" alt="Mehmet Fatih Tekin — software, systems, intelligence" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero.svg" width="720" alt="Mehmet Fatih Tekin" />
+</picture>
 
 ## Software Engineer · Applied AI
 
