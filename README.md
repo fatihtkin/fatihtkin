@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="assets/cozy-wizard-profile.png" width="360" alt="A cozy pixel-art wizard workspace overlooking a lake, with a matching portrait" />
+<p>
+  <img src="assets/header.png" width="640" alt="A candlelit pixel-art study with books, a laptop, and a lake beyond the window" />
+</p>
+
+<img src="assets/avatar.png" width="88" height="88" alt="Pixel-art portrait of a wizard reading in a quiet study" />
 
 # Mehmet Fatih Tekin
 
 **Software Engineer · Applied AI**
 
-Building thoughtful software with backend systems and applied AI.
+Thoughtful software, from backend systems to applied AI.
 
 <sub>Lugano, Switzerland · <a href="https://github.com/fatihtkin">GitHub</a> · <a href="https://twitter.com/fatihtkin00">X / Twitter</a></sub>
 
@@ -22,7 +26,7 @@ I completed a BSc in Informatics at Università della Svizzera italiana (USI), w
 
 <br />
 
-### Focus
+### Fields of Study
 
 - **Applied AI** · Integrating AI into useful products and operational workflows.
 - **Backend systems** · Clear APIs, deliberate data models, dependable integrations.
@@ -31,7 +35,7 @@ I completed a BSc in Informatics at Università della Svizzera italiana (USI), w
 
 <br />
 
-### Stack
+### Tools & Craft
 
 **Languages**<br />
 `Python` `Java` `TypeScript` `JavaScript` `SQL` `C++` `C`
@@ -61,7 +65,7 @@ Built AI-enabled software and backend integrations, including workflow automatio
 
 <br />
 
-### Building & exploring
+### Current Work
 
 I’m working on AI-enabled applications, RAG systems, and backend-heavy product ideas. I’m especially interested in document ingestion, semantic chunking, and agentic workflows that fit into real software.
 
@@ -82,6 +86,8 @@ My personal and academic work spans AI study tools, career tools, developer anal
 ---
 
 <div align="center">
+
+### Contact
 
 Interested in software engineering roles bringing modern AI into useful products.
 
