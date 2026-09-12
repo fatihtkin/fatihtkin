@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40" role="img" aria-label="">
+<path d="M0 28h76m68 0h76" stroke="#967349" opacity=".4"/>
+<g shape-rendering="crispEdges">
+<path fill="#846753" d="M87 28h40v5H87z"/><path fill="#c4b191" d="M89 29h36v2H89z"/>
+<path fill="#768071" d="M91 21h32v5H91z"/><path fill="#c4b191" d="M93 22h28v2H93z"/>
+<path fill="#ab9876" d="M105 8h5v12h-5z"/><path fill="#d4b574" d="M106 2h2v2h2v3h-5V4h1z"/>
+</g></svg>

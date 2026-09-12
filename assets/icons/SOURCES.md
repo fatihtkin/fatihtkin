@@ -7,4 +7,4 @@ Their MIT license is included in [LICENSE](LICENSE). The files are stored locall
 - `pytorch.svg`: https://skillicons.dev/icons?i=pytorch&theme=dark
 - `tools.svg`: https://skillicons.dev/icons?i=docker,git,github,linux,vercel&theme=dark
 
-Display all strips at 32px high. Technologies without an icon are named in the adjacent labels.
+Display all strips at 24px high. Technologies without an icon are named in the adjacent labels.

@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="assets/header.png" width="100%" alt="A cozy magical study with candlelight, books, and a laptop overlooking a mountain lake" />
+  <img src="assets/header.png" width="100%" alt="A candlelit study with books, a laptop, and a quiet mountain lake beyond the window" />
 </p>
 
-<br />
-
 <div align="center">
-
-<img src="assets/avatar.png" width="160" height="160" alt="Pixel-art portrait of a wizard reading in a quiet study" />
 
 <h1>Mehmet Fatih Tekin</h1>
 
@@ -17,75 +13,66 @@
 <p>
   <a href="https://github.com/fatihtkin"><img src="assets/connect-github.svg" width="88" height="28" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://twitter.com/fatihtkin00"><img src="assets/connect-x.svg" width="108" height="28" alt="X / Twitter" /></a>
+  <a href="https://x.com/fatihtkin00"><img src="assets/connect-x.svg" width="108" height="28" alt="X" /></a>
 </p>
 
 </div>
 
 <br />
 
----
+<h2><img src="assets/study/about.svg" width="340" height="44" alt="About" /></h2>
 
-## About
+<img align="right" src="assets/avatar.png" width="128" height="128" loading="lazy" alt="Pixel-art portrait of a wizard reading in a quiet study" />
 
-I’m a software engineer interested in where software engineering and modern AI come together. I enjoy building end-to-end applications, from backend architecture and data models to interfaces and intelligent features, and learning new AI areas by turning them into working software.
+I’m a software engineer interested in bringing modern AI into useful software. I enjoy building complete applications, from backend architecture and data models to interfaces and intelligent features, and learning new AI areas through working projects.
 
 Based in Lugano, Switzerland. I completed a BSc in Informatics at Università della Svizzera italiana (USI), where I’m currently pursuing an MSc in Artificial Intelligence.
 
-<br />
+<br clear="all" />
 
-## Fields of Study
+<h2><img src="assets/study/fields.svg" width="340" height="44" alt="Fields of Study" /></h2>
 
-<table>
-  <tr>
-    <td width="50%">AI-Enabled Software</td>
-    <td width="50%">Software Engineering</td>
-  </tr>
-  <tr>
-    <td>Applied Machine Learning</td>
-    <td>Intelligent Systems</td>
-  </tr>
-  <tr>
-    <td>Product Engineering</td>
-    <td>Computer Vision</td>
-  </tr>
-</table>
+**AI-Enabled Software** &nbsp; · &nbsp; Software Engineering
+
+**Applied Machine Learning** &nbsp; · &nbsp; Intelligent Systems
+
+**Product Engineering** &nbsp; · &nbsp; Computer Vision
 
 <br />
 
-## Tools & Craft
+<h2><img src="assets/study/craft.svg" width="340" height="44" alt="Tools & Craft" /></h2>
 
-<!-- Skill Icons are stored locally; source URLs and license are in assets/icons/. -->
+<!-- Icon sources and their license are in assets/icons/. -->
 
-### Languages
+<p>
+  <strong>Languages</strong> &nbsp;
+  <img src="assets/icons/languages.svg" width="165" height="24" alt="Python, Java, TypeScript, JavaScript, C++, C" /><br />
+  <sub>Python · Java · TypeScript · JavaScript · SQL · C++ · C</sub>
+</p>
 
-<img src="assets/icons/languages.svg" width="220" height="32" alt="Python, Java, TypeScript, JavaScript, C++, C" />
+<p>
+  <strong>Backend &amp; Data</strong> &nbsp;
+  <img src="assets/icons/backend-data.svg" width="137" height="24" alt="FastAPI, Spring Boot, PostgreSQL, Supabase, MongoDB" /><br />
+  <sub>FastAPI · Spring Boot · PostgreSQL · Supabase · MongoDB</sub>
+</p>
 
-<sub>Python · Java · TypeScript · JavaScript · C++ · C · SQL</sub>
+<p>
+  <strong>Frontend</strong> &nbsp;
+  <img src="assets/icons/frontend.svg" width="80" height="24" alt="Next.js, React, Vue" /><br />
+  <sub>Next.js · React · Vue</sub>
+</p>
 
-### Backend & Data
+<p>
+  <strong>AI / ML</strong> &nbsp;
+  <img src="assets/icons/pytorch.svg" width="24" height="24" alt="PyTorch" /><br />
+  <sub>PyTorch · Gemini · LangChain · LangChain4j</sub>
+</p>
 
-<img src="assets/icons/backend-data.svg" width="182" height="32" alt="FastAPI, Spring Boot, PostgreSQL, Supabase, MongoDB" />
-
-<sub>FastAPI · Spring Boot · PostgreSQL · Supabase · MongoDB</sub>
-
-### Frontend
-
-<img src="assets/icons/frontend.svg" width="107" height="32" alt="Next.js, React, Vue" />
-
-<sub>Next.js · React · Vue</sub>
-
-### AI / ML
-
-<img src="assets/icons/pytorch.svg" width="32" height="32" alt="PyTorch" />
-
-<sub>PyTorch · Gemini · LangChain · LangChain4j</sub>
-
-### Tools
-
-<img src="assets/icons/tools.svg" width="182" height="32" alt="Docker, Git, GitHub, Linux, Vercel" />
-
-<sub>Docker · Git · GitHub · Linux · Vercel</sub>
+<p>
+  <strong>Tools</strong> &nbsp;
+  <img src="assets/icons/tools.svg" width="137" height="24" alt="Docker, Git, GitHub, Linux, Vercel" /><br />
+  <sub>Docker · Git · GitHub · Linux · Vercel</sub>
+</p>
 
 <br />
 
@@ -97,7 +84,7 @@ Add public projects here once available, using verified repository links
 and concise descriptions of the engineering work.
 -->
 
-## Experience
+<h2><img src="assets/study/experience.svg" width="340" height="44" alt="Experience" /></h2>
 
 **AI Integration Engineer**<br />
 Ex Machina AI.Lab · Lugano, Switzerland<br />
@@ -107,37 +94,28 @@ Built AI-enabled workflows and backend integrations using Spring Boot, LangChain
 
 <br />
 
-## Currently Exploring
+<h2><img src="assets/study/exploring.svg" width="340" height="44" alt="Currently Exploring" /></h2>
 
 Currently building and exploring software that combines traditional engineering with modern AI.
 
-<table>
-  <tr>
-    <td width="50%">Generative AI</td>
-    <td width="50%">Agentic Systems</td>
-  </tr>
-  <tr>
-    <td>Applied Machine Learning</td>
-    <td>Computer Vision</td>
-  </tr>
-  <tr>
-    <td>AI Automation</td>
-    <td>Backend-heavy Applications</td>
-  </tr>
-</table>
+**Generative AI** &nbsp; · &nbsp; Agentic Systems
+
+**Applied Machine Learning** &nbsp; · &nbsp; Computer Vision
+
+**AI Automation** &nbsp; · &nbsp; Backend-heavy Applications
 
 More project work will appear here over time as it becomes ready to share.
 
 <br />
 
----
+<p align="center"><img src="assets/study/bookend.svg" width="220" height="40" alt="" /></p>
 
-## Connect
+<h2><img src="assets/study/connect.svg" width="340" height="44" alt="Connect" /></h2>
 
 Interested in software engineering, applied AI, and building useful systems.
 
 <p>
   <a href="https://github.com/fatihtkin"><img src="assets/connect-github.svg" width="88" height="28" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://twitter.com/fatihtkin00"><img src="assets/connect-x.svg" width="108" height="28" alt="X / Twitter" /></a>
+  <a href="https://x.com/fatihtkin00"><img src="assets/connect-x.svg" width="108" height="28" alt="X" /></a>
 </p>
