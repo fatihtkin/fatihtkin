@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="282" height="100" viewBox="0 0 282 100" role="img" aria-label="PyTorch, Gemini, LangChain, LangChain4j, pgvector, vector search">
-<rect x="0.5" y="0.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><circle cx="14" cy="14" r="2.5" fill="#64d8cb"/><text x="26" y="19" fill="#eef3f7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5">PyTorch</text>
-<rect x="145.5" y="0.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><circle cx="159" cy="14" r="2.5" fill="#64d8cb"/><text x="171" y="19" fill="#eef3f7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5">Gemini</text>
-<rect x="0.5" y="35.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><circle cx="14" cy="49" r="2.5" fill="#64d8cb"/><text x="26" y="54" fill="#eef3f7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5">LangChain</text>
-<rect x="145.5" y="35.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><circle cx="159" cy="49" r="2.5" fill="#64d8cb"/><text x="171" y="54" fill="#eef3f7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5">LangChain4j</text>
-<rect x="0.5" y="70.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><circle cx="14" cy="84" r="2.5" fill="#64d8cb"/><text x="26" y="89" fill="#eef3f7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5">pgvector</text>
-<rect x="145.5" y="70.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><circle cx="159" cy="84" r="2.5" fill="#64d8cb"/><text x="171" y="89" fill="#eef3f7" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5">Vector search</text>
-</svg>
