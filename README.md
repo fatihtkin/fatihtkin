@@ -1,14 +1,6 @@
 <div align="center">
 
-<!-- Optional future header: add assets/header.png, then uncomment the image.
-<img src="assets/header.png" width="720" alt="A quiet pixel-art landscape" />
-<br />
--->
-
-<!-- Replace the small botanical accent with assets/avatar.png when available:
-<img src="assets/avatar.png" width="72" alt="Pixel-art portrait of Mehmet Fatih Tekin" />
--->
-<img src="assets/sprig.svg" width="32" height="40" alt="" />
+<img src="assets/cozy-wizard-profile.png" width="360" alt="A cozy pixel-art wizard workspace overlooking a lake, with a matching portrait" />
 
 # Mehmet Fatih Tekin
 
