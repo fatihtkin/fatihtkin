@@ -1,117 +1,89 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
-  <img src="assets/hero.svg" width="720" alt="Mehmet Fatih Tekin" />
-</picture>
-
-## Software Engineer · Applied AI
-
-Building AI-enabled products and backend systems.
-
-<a href="https://github.com/fatihtkin"><img src="assets/github.svg" alt="GitHub" height="34" /></a>
-<a href="https://twitter.com/fatihtkin00"><img src="assets/x.svg" alt="X: @fatihtkin00" height="34" /></a>
-
+<!-- Optional future header: add assets/header.png, then uncomment the image.
+<img src="assets/header.png" width="720" alt="A quiet pixel-art landscape" />
 <br />
-<sub>Lugano, Switzerland</sub><br />
-<sub>BSc in Informatics · Pursuing an MSc in Artificial Intelligence<br />Università della Svizzera italiana (USI)</sub>
+-->
+
+<!-- Replace the small botanical accent with assets/avatar.png when available:
+<img src="assets/avatar.png" width="72" alt="Pixel-art portrait of Mehmet Fatih Tekin" />
+-->
+<img src="assets/sprig.svg" width="32" height="40" alt="" />
+
+# Mehmet Fatih Tekin
+
+**Software Engineer · Applied AI**
+
+Building thoughtful software with backend systems and applied AI.
+
+<sub>Lugano, Switzerland · <a href="https://github.com/fatihtkin">GitHub</a> · <a href="https://twitter.com/fatihtkin00">X / Twitter</a></sub>
 
 </div>
 
 <br />
 
-## What I build
+### About
 
-I build **end-to-end software systems**, from backend architecture and data models to APIs, frontend integration, and deployment. My focus is the intersection of software engineering and modern AI: turning AI capabilities into useful, maintainable products.
+I build end-to-end software systems, from backend architecture and data models to APIs, frontend integration, and deployment. I enjoy turning AI capabilities into useful, maintainable products, with care for authentication, testing, failure paths, and reliability.
 
-> **Beyond the first demo**<br />
-> Authentication, testing, failure paths, and reliability are part of the engineering work.
-
-#### `01` &nbsp; Applied AI
-
-RAG, information retrieval, and tool-using agents that solve product and operational problems.
-
-#### `02` &nbsp; Backend systems
-
-Clear APIs, deliberate data modelling, and dependable integrations.
-
-#### `03` &nbsp; Product engineering
-
-Connecting the backend, interface, and AI layer into a coherent application.
+I completed a BSc in Informatics at Università della Svizzera italiana (USI), where I’m now pursuing an MSc in Artificial Intelligence.
 
 <br />
 
-## Technical toolkit
+### Focus
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,c&amp;theme=dark" width="278" alt="Python, Java, TypeScript, JavaScript, C++, C" />
-
-<sub>Python · Java · TypeScript / JavaScript · C++ · C · SQL</sub>
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres,supabase,mongodb&amp;theme=dark" width="230" alt="FastAPI, Spring Boot, PostgreSQL, Supabase, MongoDB" />
-
-<sub>FastAPI · Spring Boot · PostgreSQL · Supabase · MongoDB · REST APIs</sub>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue&amp;theme=dark" width="134" alt="Next.js, React, Vue" />
-
-<sub>Next.js · React · Vue</sub>
-
-**AI / ML & retrieval**
-
-<img src="assets/ai-stack.svg" width="282" alt="PyTorch, Gemini, LangChain, LangChain4j, pgvector, vector search" />
-
-<sub>RAG · Tool-using agents · Machine learning fundamentals</sub>
-
-**Tools & deployment**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&amp;theme=dark" width="230" alt="Docker, Git, GitHub, Linux, Vercel" />
-
-<sub>Docker · Git / GitHub · Linux · Vercel</sub>
+- **Applied AI** · Integrating AI into useful products and operational workflows.
+- **Backend systems** · Clear APIs, deliberate data models, dependable integrations.
+- **Product engineering** · Bringing the backend, interface, and AI layer together.
+- **RAG & retrieval** · Connecting documents, vector search, and tool-using agents.
 
 <br />
 
-## Engineering experience
+### Stack
 
-### AI Integration Engineer
+**Languages**<br />
+`Python` `Java` `TypeScript` `JavaScript` `SQL` `C++` `C`
 
-**Ex Machina AI.Lab** &nbsp; / &nbsp; Lugano, Switzerland<br />
+**Backend & data**<br />
+`FastAPI` `Spring Boot` `PostgreSQL` `Supabase` `MongoDB` · REST APIs
+
+**Frontend**<br />
+`Next.js` `React` `Vue`
+
+**AI / ML**<br />
+`PyTorch` `Gemini` `LangChain` `LangChain4j` `pgvector`<br />
+<sub>Vector search · Retrieval-augmented generation · Machine learning fundamentals</sub>
+
+**Tools**<br />
+`Docker` `Git` `GitHub` `Linux` `Vercel`
+
+<br />
+
+### Experience
+
+**AI Integration Engineer**<br />
+Ex Machina AI.Lab · Lugano, Switzerland<br />
 <sub>Previous role</sub>
 
-> Built AI-enabled software and backend integrations, with a focus on workflow automation and AI orchestration.
-
-- **Spring Boot + LangChain4j** — tool-driven workflows and human-in-the-loop decision flows.
-- **Gemini** — chatbot systems and backend integration work.
+Built AI-enabled software and backend integrations, including workflow automation and AI orchestration in Spring Boot applications. Worked with LangChain4j on tool-driven workflows and human-in-the-loop decision flows, and with Gemini on chatbot systems.
 
 <br />
 
-## On the workbench
+### Building & exploring
 
-<img src="assets/focus.svg" width="282" alt="RAG systems · Agentic workflows · Backend architecture · AI-enabled applications" />
+I’m working on AI-enabled applications, RAG systems, and backend-heavy product ideas. I’m especially interested in document ingestion, semantic chunking, and agentic workflows that fit into real software.
 
-Currently building AI-enabled applications and backend-heavy product ideas, exploring document ingestion, semantic chunking, and the architecture needed to integrate AI into real software.
+More project work will be published here over time.
 
 <details>
-<summary><strong>More of my engineering background</strong></summary>
+<summary>A little more background</summary>
 
 My personal and academic work spans AI study tools, career tools, developer analytics, and Git repository mining, alongside algorithms, information retrieval, and systems programming.
 
 </details>
 
-<br />
-
 <!-- Add Selected Work here when projects are public and ready to share.
-     Use verified repository links and concrete engineering descriptions. -->
-
-## GitHub activity
-
-More project work will be published here over time.
-
-<a href="https://github.com/fatihtkin?tab=overview"><img src="assets/activity.svg" alt="View GitHub contributions and activity" width="218" /></a>
+     Include only verified repository links and concrete engineering descriptions. -->
 
 <br />
 
@@ -119,12 +91,8 @@ More project work will be published here over time.
 
 <div align="center">
 
-### Let's connect
+Interested in software engineering roles bringing modern AI into useful products.
 
-Interested in software engineering roles building<br />
-AI-enabled products and backend systems.
-
-<a href="https://github.com/fatihtkin"><img src="assets/github.svg" alt="GitHub" height="34" /></a>
-<a href="https://twitter.com/fatihtkin00"><img src="assets/x.svg" alt="X: @fatihtkin00" height="34" /></a>
+[GitHub](https://github.com/fatihtkin) &nbsp; · &nbsp; [X / Twitter](https://twitter.com/fatihtkin00)
 
 </div>
