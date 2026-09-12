@@ -45,31 +45,31 @@ Based in Lugano, Switzerland. I completed a BSc in Informatics at Università de
 <!-- Icon sources and their license are in assets/icons/. -->
 
 <p>
-  <strong>Languages</strong> &nbsp;
+  <strong>Languages</strong><br />
   <img src="assets/icons/languages.svg" width="165" height="24" alt="Python, Java, TypeScript, JavaScript, C++, C" /><br />
   <sub>Python · Java · TypeScript · JavaScript · SQL · C++ · C</sub>
 </p>
 
 <p>
-  <strong>Backend &amp; Data</strong> &nbsp;
+  <strong>Backend &amp; Data</strong><br />
   <img src="assets/icons/backend-data.svg" width="137" height="24" alt="FastAPI, Spring Boot, PostgreSQL, Supabase, MongoDB" /><br />
   <sub>FastAPI · Spring Boot · PostgreSQL · Supabase · MongoDB</sub>
 </p>
 
 <p>
-  <strong>Frontend</strong> &nbsp;
+  <strong>Frontend</strong><br />
   <img src="assets/icons/frontend.svg" width="80" height="24" alt="Next.js, React, Vue" /><br />
   <sub>Next.js · React · Vue</sub>
 </p>
 
 <p>
-  <strong>AI / ML</strong> &nbsp;
+  <strong>AI / ML</strong><br />
   <img src="assets/icons/pytorch.svg" width="24" height="24" alt="PyTorch" /><br />
   <sub>PyTorch · Gemini · LangChain · LangChain4j</sub>
 </p>
 
 <p>
-  <strong>Tools</strong> &nbsp;
+  <strong>Tools</strong><br />
   <img src="assets/icons/tools.svg" width="137" height="24" alt="Docker, Git, GitHub, Linux, Vercel" /><br />
   <sub>Docker · Git · GitHub · Linux · Vercel</sub>
 </p>
