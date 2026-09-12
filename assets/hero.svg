@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="188" viewBox="0 0 720 188" role="img" aria-labelledby="title desc">
+<title id="title">Mehmet Fatih Tekin</title><desc id="desc">Graphite and teal engineering banner with a connected system motif.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#25313c" stroke-width=".6"/></pattern></defs>
+<style>.signal{animation:breathe 5s ease-in-out infinite}@keyframes breathe{0%,100%{opacity:.35}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+<rect x="1" y="1" width="718" height="186" rx="16" fill="#111820" stroke="#2e3e49"/>
+<rect x="480" y="16" width="216" height="156" rx="12" fill="url(#grid)"/>
+<path d="M536 44H580V94H674M536 144H580V94M626 44V94M626 144V94" fill="none" stroke="#3d6268" stroke-width="1.5"/>
+<g fill="#17272d" stroke="#609a99" stroke-width="1.5"><rect x="525" y="33" width="22" height="22" rx="5"/><rect x="525" y="133" width="22" height="22" rx="5"/><rect x="615" y="33" width="22" height="22" rx="5"/><rect x="615" y="133" width="22" height="22" rx="5"/><rect x="663" y="83" width="22" height="22" rx="5"/></g>
+<circle cx="580" cy="94" r="11" fill="#111820" stroke="#64d8cb" stroke-width="2"/><circle class="signal" cx="580" cy="94" r="4" fill="#64d8cb"/>
+<path d="M32 37H63" stroke="#64d8cb" stroke-width="3" stroke-linecap="round"/>
+<text x="32" y="101" fill="#f0f6fc" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="43" font-weight="600" letter-spacing="-1.5">Mehmet Fatih Tekin</text>
+<text x="33" y="139" fill="#8eaaaa" font-family="SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="2">SOFTWARE / SYSTEMS / INTELLIGENCE</text>
+</svg>

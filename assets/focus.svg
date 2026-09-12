@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="64" viewBox="0 0 282 64" role="img" aria-label="RAG systems, agentic workflows, backend architecture, AI-enabled applications">
+<rect x="0.5" y="0.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><text x="68" y="19" text-anchor="middle" fill="#a5e7df" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5">RAG systems</text>
+<rect x="145.5" y="0.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><text x="213" y="19" text-anchor="middle" fill="#a5e7df" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5">Agentic workflows</text>
+<rect x="0.5" y="35.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><text x="68" y="54" text-anchor="middle" fill="#a5e7df" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5">Backend architecture</text>
+<rect x="145.5" y="35.5" width="136" height="28" rx="6" fill="#17212b" stroke="#40505d"/><text x="213" y="54" text-anchor="middle" fill="#a5e7df" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5">AI-enabled applications</text>
+</svg>
