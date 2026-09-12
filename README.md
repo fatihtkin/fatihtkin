@@ -10,7 +10,7 @@
 
 **Software Engineer · Applied AI**
 
-Thoughtful software, from backend systems to applied AI.
+Building software where modern AI and strong engineering come together.
 
 <sub>Lugano, Switzerland · <a href="https://github.com/fatihtkin">GitHub</a> · <a href="https://twitter.com/fatihtkin00">X / Twitter</a></sub>
 
@@ -20,7 +20,7 @@ Thoughtful software, from backend systems to applied AI.
 
 ### About
 
-I build end-to-end software systems, from backend architecture and data models to APIs, frontend integration, and deployment. I enjoy turning AI capabilities into useful, maintainable products, with care for authentication, testing, failure paths, and reliability.
+I build end-to-end applications, from backend architecture, APIs, and data models to interfaces, intelligent features, and deployment. I’m interested in where software engineering meets modern AI, and I enjoy learning new AI areas by turning them into useful, maintainable software.
 
 I completed a BSc in Informatics at Università della Svizzera italiana (USI), where I’m now pursuing an MSc in Artificial Intelligence.
 
@@ -28,10 +28,20 @@ I completed a BSc in Informatics at Università della Svizzera italiana (USI), w
 
 ### Fields of Study
 
-- **Applied AI** · Integrating AI into useful products and operational workflows.
-- **Backend systems** · Clear APIs, deliberate data models, dependable integrations.
-- **Product engineering** · Bringing the backend, interface, and AI layer together.
-- **RAG & retrieval** · Connecting documents, vector search, and tool-using agents.
+<table>
+  <tr>
+    <td width="50%"><strong>AI-Enabled Software</strong><br /><sub>Modern AI in useful applications</sub></td>
+    <td width="50%"><strong>Software Engineering</strong><br /><sub>Architecture, testing, and reliability</sub></td>
+  </tr>
+  <tr>
+    <td><strong>Applied Machine Learning</strong><br /><sub>Models as part of working systems</sub></td>
+    <td><strong>Intelligent Systems</strong><br /><sub>Agents and thoughtful automation</sub></td>
+  </tr>
+  <tr>
+    <td><strong>Product Engineering</strong><br /><sub>Complete systems, from idea to deployment</sub></td>
+    <td><strong>Computer Vision &amp; Emerging AI</strong><br /><sub>New areas explored through projects</sub></td>
+  </tr>
+</table>
 
 <br />
 
@@ -47,8 +57,8 @@ I completed a BSc in Informatics at Università della Svizzera italiana (USI), w
 `Next.js` `React` `Vue`
 
 **AI / ML**<br />
-`PyTorch` `Gemini` `LangChain` `LangChain4j` `pgvector`<br />
-<sub>Vector search · Retrieval-augmented generation · Machine learning fundamentals</sub>
+`PyTorch` `Gemini` `LangChain` `LangChain4j`<br />
+<sub>Machine learning fundamentals · AI integration</sub>
 
 **Tools**<br />
 `Docker` `Git` `GitHub` `Linux` `Vercel`
@@ -61,15 +71,15 @@ I completed a BSc in Informatics at Università della Svizzera italiana (USI), w
 Ex Machina AI.Lab · Lugano, Switzerland<br />
 <sub>Previous role</sub>
 
-Built AI-enabled software and backend integrations, including workflow automation and AI orchestration in Spring Boot applications. Worked with LangChain4j on tool-driven workflows and human-in-the-loop decision flows, and with Gemini on chatbot systems.
+Built AI-enabled workflows and backend integrations using Spring Boot, LangChain4j, and Gemini, including tool-driven automation, human-in-the-loop flows, and chatbot systems.
 
 <br />
 
 ### Current Work
 
-I’m working on AI-enabled applications, RAG systems, and backend-heavy product ideas. I’m especially interested in document ingestion, semantic chunking, and agentic workflows that fit into real software.
+I’m building and exploring AI-enabled applications and backend-heavy software, with interests across generative AI, agentic systems, applied machine learning, computer vision, and automation.
 
-More project work will be published here over time.
+I prefer learning through projects. More of the areas I explore will appear here over time as working implementations.
 
 <details>
 <summary>A little more background</summary>
@@ -78,8 +88,10 @@ My personal and academic work spans AI study tools, career tools, developer anal
 
 </details>
 
-<!-- Add Selected Work here when projects are public and ready to share.
-     Include only verified repository links and concrete engineering descriptions. -->
+<!-- Future section: Selected Work
+     Add public AI applications, computer vision projects, ML systems, backend
+     projects, or personal products here when ready to share.
+     Use only verified repository links and concrete engineering descriptions. -->
 
 <br />
 
@@ -87,7 +99,7 @@ My personal and academic work spans AI study tools, career tools, developer anal
 
 <div align="center">
 
-### Contact
+### Connect
 
 Interested in software engineering roles bringing modern AI into useful products.
 
